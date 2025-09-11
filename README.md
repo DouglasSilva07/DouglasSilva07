@@ -32,7 +32,7 @@ Sou **Desenvolvedor Front-End** apaixonado por criar soluções através da tecn
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasSilva07&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassilva&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSilva07&layout=compact&theme=radical" />
 </div>
 
 ---
