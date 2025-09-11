@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá! 👋 Me chamo Douglas Silva
+Desenvolvedor front end com foco na criação de soluções atráves da tecnologia. Atualmente curso Tecnologia em Análise e Desenvolvimento de Sistemas na Unopar. Busco sempre realizar e fazer projetos que resolvam problemas do mundo real.
 
-<!--
-**DouglasSilva07/DouglasSilva07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Atualmente focado em:
 
-Here are some ideas to get you started:
+JavaScript | TypeScritp | React.js
+TailwindCSS
+Boas práticas de front-end
+📌 Sempre buscando evoluir por meio de projetos práticos e conteúdo técnico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias e ferramentas:
+JavaScript TypeScript React HTML CSS TailwindCSS Figma Git GitHub VS Code
+
+📊 GitHub Stats:
+Douglas GitHub stats Top Langs
